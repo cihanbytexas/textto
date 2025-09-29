@@ -1,0 +1,13 @@
+{
+  "name": "groq-tts-chat-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "@discordjs/voice": "^0.14.0",
+    "node-fetch": "^3.3.2"
+  }
+}
